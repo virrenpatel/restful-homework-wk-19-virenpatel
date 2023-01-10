@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.restful.booker.cucumber.CucumberRunner
+-------------------------------------------------------------------------------
+Tests run: 27, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 18.34 sec - in com.restful.booker.cucumber.CucumberRunner
